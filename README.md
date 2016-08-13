@@ -2,3 +2,4 @@
 # Print duplicate characters in a string - PrintDupChar.c
 # Print first non repeated character from String - NonRepeatChar.c
 # Reverse a string using recursion and iteration - RevString.c
+# Check if a String contains only digits - CheckDigits.c
