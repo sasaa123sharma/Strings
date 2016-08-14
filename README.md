@@ -5,5 +5,5 @@
 # Check if a String contains only digits - CheckDigits.c
 # Count Number of Vowels, Consonants, Digits and White space in a String - CountVCDS.c
 # Count the occurrence of a character in a string - CountChrFreq.c
-# Return maximum occurring character in the input string - MaxFreqOfChar.c
+# Return maximum occurring character in the input string - MaxFreqChar.c
 # Return frequency of characters in the input string - FreqOfChars
