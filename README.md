@@ -8,3 +8,4 @@
 # Return maximum occurring character in the input string - MaxFreqChar.c
 # Return frequency of characters in the input string - FreqOfChars
 # MyAtoi or Convert numeric String to an int - MyAtoi.c
+# Remove trailing spaces in string - RmTrailSpaces.c
