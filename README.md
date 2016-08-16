@@ -10,3 +10,4 @@
 # MyAtoi or Convert numeric String to an int - MyAtoi.c
 # Remove trailing spaces in string - RmTrailSpaces.c
 # Replace a blank character by '%20'- ReplaceChar
+# Print all permutations of String(includes duplicates) - PermtnString.c
