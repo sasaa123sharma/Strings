@@ -11,3 +11,4 @@
 # Remove trailing spaces in string - RmTrailSpaces.c
 # Replace a blank character by '%20'- ReplaceChar
 # Print all permutations of String(includes duplicates) - PermtnString.c
+# Print all permutations of String(non duplicates) - PermtnStringNonDups.c
