@@ -3,6 +3,7 @@
 //1. NULL string
 //2. Non NULL string
 
+//complexity(n!.n)
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
