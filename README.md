@@ -14,3 +14,4 @@
 # Print all permutations of String(non duplicates) - PermtnStringNonDups.c
 # Reverse words in a given string(Input - "i like this program very much"; output - "much very program this like i"- RevWords.c
 # Check if a given string is a rotation of a palindrome - palindrome.c
+# Check if strings are rotations of each other or not - RotationOfOther.c
